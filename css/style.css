@@ -1,0 +1,64 @@
+.img1 {
+    position: absolute;
+    top: 200px;
+    left: 600px;
+
+}
+
+.imput {
+    position: absolute;
+    left: 500px;
+    top: 350px;
+    width: 550px;
+    height: 30px;
+    font-family: sans-serif;
+    font-size: 17px;
+    border-radius: 10px;
+
+}
+
+.btn {
+    position: absolute;
+    top: 350px;
+    left: 1080px;
+    width: 50px;
+    height: 40px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.btn1 {
+    position: absolute;
+    top: 400px;
+    left: 530px;
+    width: 200px;
+    height: 30px;
+    font-size: large;
+    border-radius: 5px;
+    background-color: white;
+
+
+}
+
+.btn2 {
+    position: absolute;
+    top: 400px;
+    left: 750px;
+    width: 300px;
+    height: 30px;
+    font-size: large;
+    border-radius: 5px;
+    background-color: white;
+
+}
+#a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: rgb(48, 47, 47);
+    background-size:auto;
+}
+#a:hover {
+    background-color: rgb(156, 155, 155);
+    border-radius: 5px;
+    color: rgb(216, 235, 235);
+}
